@@ -1,5 +1,8 @@
 # /image-seo — Claude Code Command
 
+> Built at [The GEO Lab](https://thegeolab.net) — where we optimised 112 images from 6.8MB PNGs to <100KB WebPs in one session.
+
+
 Optimize images for page speed and SEO, upload to WordPress, set all metadata fields, and set as featured image.
 
 ## What it does
