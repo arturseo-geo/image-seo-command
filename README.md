@@ -55,4 +55,4 @@ For multiple images:
 
 ---
 
-Built by [The GEO Lab](https://thegeolab.net) | [X](https://x.com/TheGEO_Lab)
+Built by [Artur Ferreira](https://thegeolab.net/about/) | [X](https://x.com/TheGEO_Lab) | [LinkedIn](https://linkedin.com/in/arturgeo)
